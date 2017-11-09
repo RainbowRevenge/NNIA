@@ -99,3 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# wenn man die nnia folien im gleichen ordner hat
+nnia_chap*
